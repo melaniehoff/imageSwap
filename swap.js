@@ -1,21 +1,20 @@
 ﻿var images = [
-    "http://files.leoneckert.com/itpgifs/ididntknow.gif",
-    "http://files.leoneckert.com/itpgifs/backtowork.gif",
-    "http://files.leoneckert.com/itpgifs/katiekiss.gif",
-    "http://files.leoneckert.com/itpgifs/tiridance.gif",
-    "http://files.leoneckert.com/itpgifs/melaspin.gif",
-    "http://files.leoneckert.com/itpgifs/entertheshop.gif",
-    "http://files.leoneckert.com/itpgifs/goodvibes.gif",
-    "http://files.leoneckert.com/itpgifs/chinoapproves.gif",
-    "http://files.leoneckert.com/itpgifs/corbinblast.gif",
-    "http://files.leoneckert.com/itpgifs/highup.gif",
-    "http://files.leoneckert.com/itpgifs/tiridrill.gif",
-    "http://files.leoneckert.com/itpgifs/rushalishine.gif",
-    "http://files.leoneckert.com/itpgifs/sebastiandance.gif",
-    "http://files.leoneckert.com/itpgifs/mattwave.gif",
-    "http://files.leoneckert.com/itpgifs/itsraining.gif",
-    "http://files.leoneckert.com/itpgifs/doroturn.gif",
-    "http://files.leoneckert.com/itpgifs/kojisleeps.gif"
+    "https://media.giphy.com/media/l41YgOPSjVe47TTRm/giphy.gif",
+    "https://media.giphy.com/media/3o7buctjKD8g5r4544/giphy.gif",
+    "https://media.giphy.com/media/xUA7b2takylWgFwJYQ/giphy.gif",
+    "https://media.giphy.com/media/3og0IAWqxqQ1aSwrde/giphy.gif",
+    "https://media.giphy.com/media/VCma6o7KQ4H4Y/giphy.gif",
+    "https://media.giphy.com/media/xT0BKEbS571e53UIDe/giphy.gif",
+    "https://media.giphy.com/media/qV4Ioi4eUpvaw/giphy.gif",
+    "https://media.giphy.com/media/hbB8efOHAezRK/giphy.gif",
+    "https://media.giphy.com/media/26BRQjZejh2vgXPJ6/giphy.gif",
+    "https://media.giphy.com/media/3o7TKxv46QYGO9ZhQY/giphy.gif",
+    "https://media.giphy.com/media/l2YOlSrNnoKC15RmM/giphy.gif",
+    "https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif",
+    "https://media.giphy.com/media/5xtDarvMK3GwzmY6CVa/giphy.gif",
+    "https://media.giphy.com/media/OdScEhtNTQEko/giphy.gif",
+    "https://media.giphy.com/media/uvCS7HUFIUGVG/giphy.gif",
+    "https://media.giphy.com/media/2bBVx7AAR9drW/giphy.gif"
 ];
 
 window.onload = replaceImages;
